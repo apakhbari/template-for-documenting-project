@@ -1,7 +1,17 @@
 # Each-Product-Template
+```
+  ______           _       _____               _            _     _______                   _       _       
+ |  ____|         | |     |  __ \             | |          | |   |__   __|                 | |     | |      
+ | |__   __ _  ___| |__   | |__) | __ ___   __| |_   _  ___| |_     | | ___ _ __ ___  _ __ | | __ _| |_ ___ 
+ |  __| / _` |/ __| '_ \  |  ___/ '__/ _ \ / _` | | | |/ __| __|    | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \
+ | |___| (_| | (__| | | | | |   | | | (_) | (_| | |_| | (__| |_     | |  __/ | | | | | |_) | | (_| | ||  __/
+ |______\__,_|\___|_| |_| |_|   |_|  \___/ \__,_|\__,_|\___|\__|    |_|\___|_| |_| |_| .__/|_|\__,_|\__\___|
+                                                                                     | |                    
+                                                                                     |_|                    
+```
 
 
-**Table of Contents**
+## Table of Contents 
 
 [1) Home Page:](#__refheading___toc460_307438764)
 
@@ -396,3 +406,31 @@ Section 3: Implementation
 
 # <a name="__refheading___toc460_59438764"></a>**8. Terminology:**
 
+# acknowledgment
+## Contributors
+
+APA 🖖🏻
+
+## Links
+
+```                                                                                                       
+  aaaaaaaaaaaaa  ppppp   ppppppppp     aaaaaaaaaaaaa   
+  a::::::::::::a p::::ppp:::::::::p    a::::::::::::a  
+  aaaaaaaaa:::::ap:::::::::::::::::p   aaaaaaaaa:::::a 
+           a::::app::::::ppppp::::::p           a::::a 
+    aaaaaaa:::::a p:::::p     p:::::p    aaaaaaa:::::a 
+  aa::::::::::::a p:::::p     p:::::p  aa::::::::::::a 
+ a::::aaaa::::::a p:::::p     p:::::p a::::aaaa::::::a 
+a::::a    a:::::a p:::::p    p::::::pa::::a    a:::::a 
+a::::a    a:::::a p:::::ppppp:::::::pa::::a    a:::::a 
+a:::::aaaa::::::a p::::::::::::::::p a:::::aaaa::::::a 
+ a::::::::::aa:::ap::::::::::::::pp   a::::::::::aa:::a
+  aaaaaaaaaa  aaaap::::::pppppppp      aaaaaaaaaa  aaaa
+                  p:::::p                              
+                  p:::::p                              
+                 p:::::::p                             
+                 p:::::::p                             
+                 p:::::::p                             
+                 ppppppppp                             
+                                                       
+```
