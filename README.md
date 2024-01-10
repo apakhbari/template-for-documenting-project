@@ -26,6 +26,8 @@
 [3) Each Product](#__refheading___toc466_307438764)
 
 - [3.1) Overview](#__refheading___toc693_251680138)
+- [3.2) Change Log](#__refheading___toc693_2516456138)
+
 
 - [3.2) Product Documentation:](#__refheading___toc462_307438764)
 
@@ -133,6 +135,8 @@
 
  # <a name="__refheading___toc466_307438764"></a>**3. Each Product**
 ## <a name="__refheading___toc693_251680138"></a>**Overview**
+
+## <a name="__refheading___toc693_2516456138"></a>**Change Log**
 
  ## <a name="__refheading___toc462_307438764"></a>**Product Documentation:**
 
