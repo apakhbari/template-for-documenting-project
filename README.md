@@ -445,7 +445,7 @@ Each Product
 - User Guide  User-Guide
 - Marketing, Sales & Legal  Marketing-Sales-Legal
 - FAQ
-- Developer Guide
+- Developer Guide    Developer-Guide
    - Research
       - Section 1: Quick Overview
       - Section 2: Best Practices
