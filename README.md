@@ -452,11 +452,11 @@ Each Product
       - Section 3: Research findings
       - Section 4: Terminology
       - Section 5: Acknowledgment
-   - Front End
+   - FrontEnd
       - Section1: Quick Overview
       - Section2: Comprehensive look
       - Section3: Acknowledgment
-   - Back End
+   - BackEnd
       - Section1: Quick Overview
       - Section2: Comprehensive look
       - Section3: ServiceslModules
