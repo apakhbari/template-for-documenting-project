@@ -438,12 +438,12 @@ Updates and Announcements
 Each Product
 
 - Overview
-- Change Log
+- Change Log  Change-Log
 - Asignees
 - Assignees-Tech
-- Product Documentation
-- User Guide
-- Marketing, Sales & Legal
+- Product Documentation  Product-Documentation
+- User Guide  User-Guide
+- Marketing, Sales & Legal  Marketing-Sales-Legal
 - FAQs
 - Developer Guide
    - Research
