@@ -444,7 +444,7 @@ Each Product
 - Product Documentation  Product-Documentation
 - User Guide  User-Guide
 - Marketing, Sales & Legal  Marketing-Sales-Legal
-- FAQs
+- FAQ
 - Developer Guide
    - Research
       - Section 1: Quick Overview
