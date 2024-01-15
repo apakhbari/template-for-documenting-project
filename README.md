@@ -440,9 +440,10 @@ Each Product
 - Overview
 - Change Log
 - Asignees
-- Product Documentation:
+- Assignees-Tech
+- Product Documentation
 - User Guide
-- Marketing & Sales
+- Marketing, Sales & Legal
 - FAQs
 - Developer Guide
    - Research
