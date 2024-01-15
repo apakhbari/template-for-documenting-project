@@ -159,6 +159,7 @@
    ### <a name="__refheading___toc701_251680138"></a>**Research**
 #### <a name="__refheading___toc1184_1516916542"></a>***Section 1: Quick Overview*** 
 - Road map 🚧
+- Change Log
 #### <a name="__refheading___toc1186_1516916542"></a>***Section 2: Best Practices***
 - a table of each best practise along side its key features 
 
@@ -181,6 +182,7 @@
 - Overview (+ overall architecture + Link to Other services that are working with this)
 
 - Road map 🚧 (+ Releases)
+- Change Log
 #### <a name="__refheading___toc1139_1516916542"></a>***Section2: Comprehensive look***
 - Code Environment (IDE – Plugins) + syntax & refactoring: (plugins, e.g. prettier)
 
@@ -208,6 +210,7 @@
 - Overview (+ overall architecture + Link to Other services that are working with this)
 
 - Road map 🚧 (+ Relesaes)
+- Change Log
 #### <a name="__refheading___toc9512_1000420496"></a>***Section2: Comprehensive look***
 - Components
 
@@ -240,6 +243,7 @@ Section1: QuickStart
 - Input + Output
 
 - Road map 🚧 (+ Releases)
+- Change Log
 
 Section2: Comprehensive look
 
@@ -269,6 +273,7 @@ Section2: Comprehensive look
 - Overview
 
 - Configuration (Port, Domain)
+- Change Log
 
 - Link to services that are working with this
 #### <a name="__refheading___toc9518_1000420496"></a>***Section 2: Intuitive schema***
@@ -280,6 +285,7 @@ Section2: Comprehensive look
 - Overview (+ overall architecture + Link to Other services that are working with this)
 
 - Road map 🚧 (+ Releases)
+- Change Log
 
 - Cases (Trouble Shooting + related to the services that are working with this)
 #### <a name="__refheading___toc9494_1000420496"></a>***Section 2: Infrastructure documentation***
