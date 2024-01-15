@@ -414,6 +414,63 @@ Section 3: Implementation
 
 # <a name="__refheading___toc460_59438764"></a>**8. Terminology:**
 
+
+## Table of Contents (Without Links)
+
+Home Page
+
+HR
+
+- Getting Started
+
+- Organizational Structure
+
+- Feedback and Improvement
+
+Knowledge Sharing
+
+Tools and Resources
+
+IT Security
+
+Updates and Announcements
+
+Each Product
+
+- Overview
+- Change Log
+- Asignees
+- Product Documentation:
+- User Guide
+- Marketing & Sales
+- FAQs
+- Developer Guide
+   - Research
+      - Section 1: Quick Overview
+      - Section 2: Best Practices
+      - Section 3: Research findings
+      - Section 4: Terminology
+      - Section 5: Acknowledgment
+   - Front End
+      - Section1: Quick Overview
+      - Section2: Comprehensive look
+      - Section3: Acknowledgment
+   - Back End
+      - Section1: Quick Overview
+      - Section2: Comprehensive look
+      - Section3: ServiceslModules
+      - Section 4: Acknowledgment
+   - Database
+      - Section 1: Quick Overview
+      - Section 2: Intuitive schema
+   - DevOps
+      - Section 1: Quick Overview
+      - Section 2: Infrastructure documentation
+      - Section 3: Continuous integration/delivery (CI/CD) pipelines
+      - Section 4 : Acknowledgment
+
+Terminology
+
 # acknowledgment
 ## Contributors
 
