@@ -1,20 +1,16 @@
-# Developer Guide - Database
+# Database
 
-## Section 1: Quick Overview 
-- Road map 🚧
+## Section 1: Quick Overview
+- Overview
+- Road map 🚧 (+ Releases)
+- Configuration (Port, Domain)
 - Change Log
+- Link to services that are working with this
 
-## Section 2: Best Practices
-- a table of each best practise along side its key features 
-- List of best practices and their features
+## Section 2: Intuitive schema
+- Diagram, Table (attributes: is_required, type, default)
+- list of declared enums
 
-## Section 3: Research findings
-- a table of files
-- any file representing a researched title or problem. 
-
-## Section 4: Terminology
-- a percise definition of common terms
-
-## **Section 5: Acknowledgment
+## Section 3: Acknowledgment
 - Contributors
 - Links
