@@ -266,24 +266,27 @@ Section2: Comprehensive look
 - Testing Developer Guide
 #### <a name="__refheading___toc9508_10004204962"></a>***Section 4: Acknowledgment***
 - Contributors
-
 - Links
+
 ### <a name="__refheading___toc9470_1000420496"></a>**Database**
    #### <a name="__refheading___toc9516_1000420496"></a>***Section 1: Quick Overview***
 - Overview
-
+- Road map 🚧 (+ Releases)
 - Configuration (Port, Domain)
 - Change Log
-
 - Link to services that are working with this
+
 #### <a name="__refheading___toc9518_1000420496"></a>***Section 2: Intuitive schema***
 - Diagram, Table (attributes: is\_required, type, default)
-
 - list of declared enums
+
+## Section 3: Acknowledgment
+- Contributors
+- Links
+ 
 ### <a name="__refheading___toc699_251680138"></a>**DevOps**
    #### <a name="__refheading___toc9520_1000420496"></a>***Section 1: Quick Overview***
 - Overview (+ overall architecture + Link to Other services that are working with this)
-
 - Road map 🚧 (+ Releases)
 - Change Log
 
